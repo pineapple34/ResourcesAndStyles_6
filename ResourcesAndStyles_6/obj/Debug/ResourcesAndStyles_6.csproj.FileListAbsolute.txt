@@ -1,0 +1,17 @@
+C:\Users\Asus\Desktop\repo\.WPF\ResourcesAndStyles_6\ResourcesAndStyles_6\bin\Debug\ResourcesAndStyles_6.exe.config
+C:\Users\Asus\Desktop\repo\.WPF\ResourcesAndStyles_6\ResourcesAndStyles_6\bin\Debug\ResourcesAndStyles_6.exe
+C:\Users\Asus\Desktop\repo\.WPF\ResourcesAndStyles_6\ResourcesAndStyles_6\bin\Debug\ResourcesAndStyles_6.pdb
+C:\Users\Asus\Desktop\repo\.WPF\ResourcesAndStyles_6\ResourcesAndStyles_6\obj\Debug\ResourcesAndStyles_6.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\repo\.WPF\ResourcesAndStyles_6\ResourcesAndStyles_6\obj\Debug\MainWindow.g.cs
+C:\Users\Asus\Desktop\repo\.WPF\ResourcesAndStyles_6\ResourcesAndStyles_6\obj\Debug\App.g.cs
+C:\Users\Asus\Desktop\repo\.WPF\ResourcesAndStyles_6\ResourcesAndStyles_6\obj\Debug\ResourcesAndStyles_6_MarkupCompile.cache
+C:\Users\Asus\Desktop\repo\.WPF\ResourcesAndStyles_6\ResourcesAndStyles_6\obj\Debug\ResourcesAndStyles_6_MarkupCompile.lref
+C:\Users\Asus\Desktop\repo\.WPF\ResourcesAndStyles_6\ResourcesAndStyles_6\obj\Debug\MainWindow.baml
+C:\Users\Asus\Desktop\repo\.WPF\ResourcesAndStyles_6\ResourcesAndStyles_6\obj\Debug\ResourcesAndStyles_6.g.resources
+C:\Users\Asus\Desktop\repo\.WPF\ResourcesAndStyles_6\ResourcesAndStyles_6\obj\Debug\ResourcesAndStyles_6.Properties.Resources.resources
+C:\Users\Asus\Desktop\repo\.WPF\ResourcesAndStyles_6\ResourcesAndStyles_6\obj\Debug\ResourcesAndStyles_6.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\repo\.WPF\ResourcesAndStyles_6\ResourcesAndStyles_6\obj\Debug\ResourcesAndStyles_6.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\repo\.WPF\ResourcesAndStyles_6\ResourcesAndStyles_6\obj\Debug\ResourcesAndStyles_6.exe
+C:\Users\Asus\Desktop\repo\.WPF\ResourcesAndStyles_6\ResourcesAndStyles_6\obj\Debug\ResourcesAndStyles_6.pdb
+C:\Users\Asus\Desktop\repo\.WPF\ResourcesAndStyles_6\ResourcesAndStyles_6\obj\Debug\App.baml
+C:\Users\Asus\Desktop\repo\.WPF\ResourcesAndStyles_6\ResourcesAndStyles_6\obj\Debug\Dictionary1.baml
